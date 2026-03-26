@@ -142,3 +142,26 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.activity-card ul {
+  margin-left: 20px;
+  margin-bottom: 10px;
+  list-style-type: none;
+}
+
+.activity-card li {
+  margin-bottom: 5px;
+  color: #555;
+}
+
+.activity-card .delete-participant {
+  color: #c62828;
+  cursor: pointer;
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.activity-card .delete-participant:hover {
+  color: #b71c1c;
+}
